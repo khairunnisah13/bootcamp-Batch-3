@@ -3,3 +3,5 @@
 ## Unix Comman Lind
 1.  Terminal Basic merupakan proses pemindahan file/folder dengan pengetikkan di Command Prompt atau Windows Powershell
 terdapat beberapa perintah atau navigation pada terminal basic 
+
+** Copywright By Khairunnisah - 2022**
