@@ -11,6 +11,7 @@ Terdapat beberapa perintah atau navigation pada terminal basic sebagai berikut:
 - perintah clear untuk membersihkan tampilan terminal
 - perintah cp untuk mengkopi atau menggandakan file/folder
 - perintah rm untuk meremove atau menghapus file/folder
+- perintah mkdir untuk membuat folder baru
 
 2.  contoh exercise
     - Directory: C:\Users\ADMIN
